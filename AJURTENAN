@@ -14,7 +14,15 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746065183/ei/v
 #EXTVLCOPT:http-origin=https://jlbfh5.jlbfaa.com
 #EXTVLCOPT:http-referrer=https://jlbfh5.jlbfaa.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746065727/ei/34QSaO2SGtTMssUPv6yZuAc/ip/103.170.22.60/id/fy4s8-EAfaM.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/bui/AecWEAZRdi1O7xlphpFNilcCgnqR1kqSTYMrOYMaMDRefBqpYVqIU8MBfXC3bAJ-wkkRsI3Pi-zziDio/spc/wk1kZmTZqBUK5ZxVD5yf_YBaCXQq3UzbtKDpvYnEWjzPB4wUZ8H425nr6wdVXhkq5wo4_-IuFA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgKdgeNXDqnIrMpSinnYA0HOExPRxKAaIl90yk45f3E0kCIGRz0ncsA53SRTZ3BlmEg-1AAPabtPwdE44X7841GUv6/file/index.m3u8
 #https://bf.shandongjncz.com/live/sd-1-4326752.m3u8?txSecret=fb337531dc8c9553a0a55df3454527da&txTime=6811e950
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIGA 4 NASIONAL", Live 3
+#EXTVLCOPT:http-origin=https://jlbfh5.jlbfaa.com
+#EXTVLCOPT:http-referrer=https://jlbfh5.jlbfaa.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746065836/ei/TIUSaJihLabg3LUP97q7mQI/ip/103.170.22.60/id/SdgXM1b98S0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/bui/AecWEAajermWDThvopoQpFdtb1Na99bEA9rSfznd6BDTj4Ppy84g8mjpRLHIVMY7RsYIoRosBlhKLm2Z/spc/wk1kZtQb0c_Er2uthm_8xs_NdA5MH-KwX4XbwJDg5HdIwun0M2QpTJSczGSmcwTw0InrMuyNzQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJXvyr0N2a4sRlgeYLjRty6zfAEmLr9tBHp7Z0K0jfOFAiEAuT28kza0ZH3Xm3_tcJzN1nGyZ5rRv4_wdwxMIZaMqFc%3D/file/index.m3u8
+
 
 #EXTINF:-1 group-title="EVENT BADMINTON" tvg-logo="https://iili.io/3Wa3UMu.md.png",Sudirman Cup 1
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
