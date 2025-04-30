@@ -2046,7 +2046,8 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 
                                                                          PREMIER LEAGUE
 
-
+#EXTINF:0 tvg-id="PL" tvg-logo="https://thumbor.prod.vidiocdn.com/cUkE-ei8BbRRA4S64P5jczTikDM=/830x460/filters:quality(80)/vidio-web-prod-livestreaming/uploads/livestreaming/blocking_banner_image/9353/e1258c.jpg" group-title="PREMIER LEAGUE",Sky Sport NZ EPL
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky8nz
 
 #EXTINF:0 tvg-id="PL" tvg-logo="https://thumbor.prod.vidiocdn.com/cUkE-ei8BbRRA4S64P5jczTikDM=/830x460/filters:quality(80)/vidio-web-prod-livestreaming/uploads/livestreaming/blocking_banner_image/9353/e1258c.jpg" group-title="PREMIER LEAGUE", NBC Sport Peacock
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2454,6 +2455,8 @@ https://windnew.newkso.ru/wind/premium581/mono.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMagwgCUpF6dZWgIEwTKgm5q6AyU6YzLOUyT5ktgRw51ixk7vJJZ3T742fS0gjm0g_aPHO8-#EXTINF:-1 tvg-id="Apple TV.id" group-title="SERIE A ITALIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT258UkDXhGxaellfVsVeAygoP3TNa2aBO2Hw&usqp=CAU",Sky Sport 7 Nz
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky7nz
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMagwgCUpF6dZWgIEwTKgm5q6AyU6YzLOUyT5ktgRw51ixk7vJJZ3T742fS0gjm0g_aPHO8-#EXTINF:-1 tvg-id="Apple TV.id" group-title="SERIE A ITALIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT258UkDXhGxaellfVsVeAygoP3TNa2aBO2Hw&usqp=CAU",Sport TV 5 PORTUGAL
 http://lb2_s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv5.m3u8
