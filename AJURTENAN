@@ -1663,35 +1663,39 @@ http://terabit.web.id/media.mpd?id=119&type=dash
 http://terabit.web.id/media.mpd?id=120&type=dash
 
 #EXTINF:-1 group-title="Sports INDO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6vvW98IQjV4K_2HTkwuqus_nFT07PTyUNe2XkwHPuSBqzmijljKlXMMYSl_tr-tkABbK5eeD4Ac4cdx2uYaRMcDaGWHbmXRnxSQtMK_NicZmYzsN8k2W1n3xZVDnAO4SrA5dgfPLAjaZe2voKJD_epRcEOztMw1CmVyVN4qlMIpQQpbFlaA1Qd1YPhPc/s700/BEIN%20SPORTS%201%20ID.png",BEIN SPORTS 1 HD
-#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
-
 #EXTINF:-1 group-title="Sports INDO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWZPMP862gttVqq4Qr01LuTHayiy-qaRuqnKeHOHXDwHpTwtWc7EOxBkQ4PCroCezfYV-_RK2GaTIHnRT2ZFYIXE6Kxhqa7xAoBi0S8HlGWAIhiqFw6AZ71FI6X5qE0tyuWi6RZ17WPSgToHd1a3Iaa0FqZaUpzQVH6gdH1WdX1s_w6pMXza4h1ZMAkB7c/s700/BEIN%20SPORTS%202%20ID.png",BEIN SPORTS 2 HD
-#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
 #EXTINF:-1 group-title="Sports INDO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8PTewlflhO6NctO37AxButKfVN9WgQW4xLdXp0EBl0bicbPUn47KkrL6-VtFNIG2bX40jBE1ZuliSvyBJ41gBOfTuTRlh-OYRSuZkXCUnXA62D-sNsAx6-upXdXZVu-gSnb28mmFhv9qtS-IRgRzNji3eRtBX7u-ei2QITW8sqDNnBEZl30aM20eIR4as/s700/BEIN%20SPORTS%203%20ID.png",BEIN SPORTS 3 HD
-#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVDC4F7SLB9KmrusTyTUoycs5HMYTeFiFRX-oG1-WcQa57OWPoSVNwtk0TrQJdXFE9XXH0ZOEB5rRH8zMhyFtjTYPxnbaQ7dcHMixZ1QAxAf6r0sOo9giCfuCZIXQvTLt8Jm9jTfgr0Py5iiS84tg3d6o1n_f-pqTzFVebI9BZQzvlUiQ4sS1VA9_XXRc7/s700/BEIN%20SPORTS%204%20ID.png" group-title="Sports INDO",BEIN SPORTS 4 HD
-#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ53Z0TTaBPc8fkuVDpdRd1tMwRmNNhUvVqo-jT6Pm9BE01MQiw2gsTnyWLIJTF7QM5HovelMByw7Jr0aLgwhRyNXQLc2qpIZaTeGrZoioJFNe-xYG9oFugueUtnhgMeHDKpwSYO3PbS5lxlKCIn5tDXRqg_Lc6Lpgom315Kh6yx4rDCPzM3f0NE8T6P65/s700/BEIN%20SPORTS%205%20ID.png" group-title="Sports INDO",BEIN SPORTS 5 HD
-#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtOswYxSurFYD6yBWgqPA2FszUp8JYFH0VTxzEFzB4OF_mhSZgZpi6IpMZ_BsQvkrlWcVUskAyP-oMBdiqjFhmLnPVOrGfAb32-nwI0fmudX4Wnr3vgfpjtvif1OlJaSnLEvr_5E8F9nORtUPcn7L4tcnBuNQh6LxGxGbdRM-oyJL_K49UT7HLolzRAVC4/s700/RCTI.png" group-title="Sports INDO",RCTI TIMNAS
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; XVBCPULOQJ) ExoPlayerLib/2.15.1
@@ -2070,9 +2074,6 @@ https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.m
 
                                                                          PREMIER LEAGUE
 
-#EXTINF:0 tvg-id="PL" tvg-logo="https://thumbor.prod.vidiocdn.com/cUkE-ei8BbRRA4S64P5jczTikDM=/830x460/filters:quality(80)/vidio-web-prod-livestreaming/uploads/livestreaming/blocking_banner_image/9353/e1258c.jpg" group-title="PREMIER LEAGUE",Sky Sport NZ EPL
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky8nz
-
 #EXTINF:0 tvg-id="PL" tvg-logo="https://thumbor.prod.vidiocdn.com/cUkE-ei8BbRRA4S64P5jczTikDM=/830x460/filters:quality(80)/vidio-web-prod-livestreaming/uploads/livestreaming/blocking_banner_image/9353/e1258c.jpg" group-title="PREMIER LEAGUE", NBC Sport Peacock
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0045a118e231f1326bcdb45350b1ceaa:8c13afbfa54ea37a368b8b859021f6e3
@@ -2358,36 +2359,51 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 
                                                              =========UCL & UEL=========
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lZPPwAjEt3nIdBZoYPjV0ou0IaCSVWkXtw&usqp=CAU" group-title="UCL & UEL",BEIN SPORTS 1 HD
-#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=122&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lZPPwAjEt3nIdBZoYPjV0ou0IaCSVWkXtw&usqp=CAU" group-title="UCL & UEL",BEIN SPORTS 2 HD
-#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=123&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lZPPwAjEt3nIdBZoYPjV0ou0IaCSVWkXtw&usqp=CAU" group-title="UCL & UEL",BEIN SPORTS 3 HD
-#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=124&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lZPPwAjEt3nIdBZoYPjV0ou0IaCSVWkXtw&usqp=CAU" group-title="UCL & UEL",BEIN SPORTS 4 HD
-#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=125&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lZPPwAjEt3nIdBZoYPjV0ou0IaCSVWkXtw&usqp=CAU" group-title="UCL & UEL",BEIN SPORTS 5 HD
-#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=126&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lZPPwAjEt3nIdBZoYPjV0ou0IaCSVWkXtw&usqp=CAU" group-title="UCL & UEL",TNT SPORTS 1 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2477,10 +2493,6 @@ https://windnew.newkso.ru/wind/premium581/mono.m3u8
 
 ===================== LIGA ITALIA =====================
 
-
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMagwgCUpF6dZWgIEwTKgm5q6AyU6YzLOUyT5ktgRw51ixk7vJJZ3T742fS0gjm0g_aPHO8-#EXTINF:-1 tvg-id="Apple TV.id" group-title="SERIE A ITALIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT258UkDXhGxaellfVsVeAygoP3TNa2aBO2Hw&usqp=CAU",Sky Sport 7 Nz
-https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky7nz
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMagwgCUpF6dZWgIEwTKgm5q6AyU6YzLOUyT5ktgRw51ixk7vJJZ3T742fS0gjm0g_aPHO8-#EXTINF:-1 tvg-id="Apple TV.id" group-title="SERIE A ITALIA" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT258UkDXhGxaellfVsVeAygoP3TNa2aBO2Hw&usqp=CAU",Sport TV 5 PORTUGAL
 http://lb2_s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv5.m3u8
@@ -2605,24 +2617,49 @@ https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 ===================== LIGA CHAMPIONS ====================
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="beIN SPORTS.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/108/2024/05/03/Liga-Champions-UEFA-3385813626.jpg" group-title="LIGA CHAMPIONS",LIGA CHAMPIONS BIEN 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=122&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="beIN SPORTS 3.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/108/2024/05/03/Liga-Champions-UEFA-3385813626.jpg" group-title="LIGA CHAMPIONS",LIGA CHAMPIONS BIEN 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=123&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="beIN SPORTS 3.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/108/2024/05/03/Liga-Champions-UEFA-3385813626.jpg" group-title="LIGA CHAMPIONS",LIGA CHAMPIONS BIEN 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=124&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="beIN SPORTS 4.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/108/2024/05/03/Liga-Champions-UEFA-3385813626.jpg" group-title="LIGA CHAMPIONS",LIGA CHAMPIONS BIEN 4
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=125&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="beIN SPORTS 5.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/108/2024/05/03/Liga-Champions-UEFA-3385813626.jpg" group-title="LIGA CHAMPIONS",LIGA CHAMPIONS BIEN 5
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=126&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/108/2024/05/03/Liga-Champions-UEFA-3385813626.jpg" group-title="LIGA CHAMPIONS",LIGA CHAMPIONS TNT 1
@@ -2691,36 +2728,6 @@ https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://202.70.133.95/ck/ascroatia/satu.json
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4bji3RTpl10N4yjso1xddTRVTvF7VYzz_24b-cIsxvEAWX1fzBa1fPp4WSCcu82bFi6i8ZkP3P3RXSZAK9bLCUteWw0Ivvk5_dxBXHUmmigpbBpanSybuzj32PTNrv9b9boEf927E8w1V-4QapRUn1LzS9M6V8nvQM-6ABn1fY-5JJ59cGSAaZ7Badntv/s700/CHAMPIONS%20LEAGUE.png" group-title="LIGA CHAMPIONS",BEIN SPORTS 1 HD
-#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4bji3RTpl10N4yjso1xddTRVTvF7VYzz_24b-cIsxvEAWX1fzBa1fPp4WSCcu82bFi6i8ZkP3P3RXSZAK9bLCUteWw0Ivvk5_dxBXHUmmigpbBpanSybuzj32PTNrv9b9boEf927E8w1V-4QapRUn1LzS9M6V8nvQM-6ABn1fY-5JJ59cGSAaZ7Badntv/s700/CHAMPIONS%20LEAGUE.png" group-title="LIGA CHAMPIONS",BEIN SPORTS 2 HD
-#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4bji3RTpl10N4yjso1xddTRVTvF7VYzz_24b-cIsxvEAWX1fzBa1fPp4WSCcu82bFi6i8ZkP3P3RXSZAK9bLCUteWw0Ivvk5_dxBXHUmmigpbBpanSybuzj32PTNrv9b9boEf927E8w1V-4QapRUn1LzS9M6V8nvQM-6ABn1fY-5JJ59cGSAaZ7Badntv/s700/CHAMPIONS%20LEAGUE.png" group-title="LIGA CHAMPIONS",BEIN SPORTS 3 HD
-#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4bji3RTpl10N4yjso1xddTRVTvF7VYzz_24b-cIsxvEAWX1fzBa1fPp4WSCcu82bFi6i8ZkP3P3RXSZAK9bLCUteWw0Ivvk5_dxBXHUmmigpbBpanSybuzj32PTNrv9b9boEf927E8w1V-4QapRUn1LzS9M6V8nvQM-6ABn1fY-5JJ59cGSAaZ7Badntv/s700/CHAMPIONS%20LEAGUE.png" group-title="LIGA CHAMPIONS",BEIN SPORTS 4 HD
-#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4bji3RTpl10N4yjso1xddTRVTvF7VYzz_24b-cIsxvEAWX1fzBa1fPp4WSCcu82bFi6i8ZkP3P3RXSZAK9bLCUteWw0Ivvk5_dxBXHUmmigpbBpanSybuzj32PTNrv9b9boEf927E8w1V-4QapRUn1LzS9M6V8nvQM-6ABn1fY-5JJ59cGSAaZ7Badntv/s700/CHAMPIONS%20LEAGUE.png" group-title="LIGA CHAMPIONS",BEIN SPORTS 5 HD
-#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
 
 
