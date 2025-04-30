@@ -7,14 +7,14 @@
 #EXTVLCOPT:http-origin=https://jlbfh5.jlbfaa.com
 #EXTVLCOPT:http-referrer=https://jlbfh5.jlbfaa.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://bf.shandongjncz.com/live/sd-1-4326753.m3u8?txSecret=57718f51cd6000254e5cd64c6332f21f&txTime=6811e4ea
+#https://bf.shandongjncz.com/live/sd-1-4326753.m3u8?txSecret=57718f51cd6000254e5cd64c6332f21f&txTime=6811e4ea
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIGA 4 NASIONAL", Live 2
 #EXTVLCOPT:http-origin=https://jlbfh5.jlbfaa.com
 #EXTVLCOPT:http-referrer=https://jlbfh5.jlbfaa.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://bf.shandongjncz.com/live/sd-1-4326752.m3u8?txSecret=fb337531dc8c9553a0a55df3454527da&txTime=6811e950
+#https://bf.shandongjncz.com/live/sd-1-4326752.m3u8?txSecret=fb337531dc8c9553a0a55df3454527da&txTime=6811e950
 
 #EXTINF:-1 group-title="EVENT BADMINTON" tvg-logo="https://iili.io/3Wa3UMu.md.png",Sudirman Cup 1
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
@@ -22,7 +22,7 @@ https://bf.shandongjncz.com/live/sd-1-4326752.m3u8?txSecret=fb337531dc8c9553a0a5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-connection-timeout=5000
 #EXTVLCOPT:http-reconnect=true
-https://live-xlvb.nsnd.live/4OCE1NQnPSM9XnNWOrRcDw/0aafe7a6d19bfafd5e27cf7084b37d51/1746026138/live/_definst_/stream_1_1bda7@xienHD/chunklist.m3u8
+#https://live-xlvb.nsnd.live/4OCE1NQnPSM9XnNWOrRcDw/0aafe7a6d19bfafd5e27cf7084b37d51/1746026138/live/_definst_/stream_1_1bda7@xienHD/chunklist.m3u8
 
 #EXTINF:-1 group-title="EVENT BADMINTON" tvg-logo="https://iili.io/3Wa3UMu.md.png",Sudirman Cup 2
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
@@ -30,7 +30,7 @@ https://live-xlvb.nsnd.live/4OCE1NQnPSM9XnNWOrRcDw/0aafe7a6d19bfafd5e27cf7084b37
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-connection-timeout=5000
 #EXTVLCOPT:http-reconnect=true
-https://hotlivezz179026907.akainu.xyz/QaKv_rGE6axxvnn1hLajkg/Fv2lucGIbhPi2caWYvF5Lg/1746026138832/live/may25/chunklist.m3u8
+#https://hotlivezz179026907.akainu.xyz/QaKv_rGE6axxvnn1hLajkg/Fv2lucGIbhPi2caWYvF5Lg/1746026138832/live/may25/chunklist.m3u8
 
 #EXTINF:-1 group-title="EVENT BADMINTON" tvg-logo="https://iili.io/3Wa3UMu.md.png",Sudirman Cup 3
 #EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
@@ -38,7 +38,7 @@ https://hotlivezz179026907.akainu.xyz/QaKv_rGE6axxvnn1hLajkg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-connection-timeout=5000
 #EXTVLCOPT:http-reconnect=true
-https://hotlivezz179026907.akainu.xyz/6Q9wzJLocte_vgJl1Z56Xg/Fv2lucGIbhPi2caWYvF5Lg/1746026138832/live/may24/playlist.m3u8
+#https://hotlivezz179026907.akainu.xyz/6Q9wzJLocte_vgJl1Z56Xg/Fv2lucGIbhPi2caWYvF5Lg/1746026138832/live/may24/playlist.m3u8
 
 
                                                                             NASIONAL
@@ -1450,11 +1450,9 @@ http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&amp;userid
 https://master-stream.my.id/live/6D63701EC97F20360890B90EAA9151A7/16.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="SUDIRMAN CUP | 27 APRIL | 4 MEI 2025",ASTRO BADMINTON HD
-#EXTVLCOPT:http-user-agent=OTT Navigator/grd.player (Linux;Android10) ExoPlayerLib/2.13.2
-#EXTVLCOPT:http-referrer=https://sooka.my/&user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vipgaruda.my.id/CKASTROSOOKAGARUDAPREMIUM1/ASTROBADMINTON.json
-https://vipsookaastrogogarudapremiumlivevvip1hdgqdssfugdghvdqwv7.garudatvpro.workers.dev/https://l17.dp.sooka.my/5170/linear/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
 
 
 
@@ -1852,11 +1850,9 @@ http://extraott.com:900/live/3162523972/3791698850/379652.m3u8
 BADMINTON
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-ifX0RF1Rz9QW3bD3mJQ82Z-A9F2NHQe1w&usqp=CAU" group-title="BADMINTON | NBA",ASTRO BADMINTON HD
-#EXTVLCOPT:http-user-agent=OTT Navigator/grd.player (Linux;Android10) ExoPlayerLib/2.13.2
-#EXTVLCOPT:http-referrer=https://sooka.my/&user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vipgaruda.my.id/CKASTROSOOKAGARUDAPREMIUM1/ASTROBADMINTON.json
-https://vipsookaastrogogarudapremiumlivevvip1hdgqdssfugdghvdqwv7.garudatvpro.workers.dev/https://l17.dp.sooka.my/5170/linear/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2956,22 +2952,25 @@ https://windnew.newkso.ru/wind/premium581/mono.m3u8
 
 =======================BUNDES LIGA=======================================
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://bekelsego.com/wp-content/uploads/2022/09/Berita-Liga-Jerman-Terbaru-Hari-Ini-e1678090626773.jpg",I NEWS
 #EXTGRP: BUNDES LIGA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://dsgtq5sngxkde.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=4&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://bekelsego.com/wp-content/uploads/2022/09/Berita-Liga-Jerman-Terbaru-Hari-Ini-e1678090626773.jpg",INDONEWS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://bekelsego.com/wp-content/uploads/2022/09/Berita-Liga-Jerman-Terbaru-Hari-Ini-e1678090626773.jpg",SINDONEWS
 #EXTGRP: BUNDES LIGA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://vplus.caranytv.workers.dev/drm?id=5&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
 #EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://bekelsego.com/wp-content/uploads/2022/09/Berita-Liga-Jerman-Terbaru-Hari-Ini-e1678090626773.jpg",DAZN ELEVEN 2
 #EXTGRP: BUNDES LIGA
@@ -3615,11 +3614,9 @@ https://livetvkilatlive.applecdnstore.com/livetv/2024/USA_ESPN/index.m3u8
                                                            ASTRO SPORTS
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Astro_Badminton_%282024%29.png/640px-Astro_Badminton_%282024%29.png" group-title="ASTRO SPORTS",ASTRO BADMINTON
-#EXTVLCOPT:http-user-agent=OTT Navigator/grd.player (Linux;Android10) ExoPlayerLib/2.13.2
-#EXTVLCOPT:http-referrer=https://sooka.my/&user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vipgaruda.my.id/CKASTROSOOKAGARUDAPREMIUM1/ASTROBADMINTON.json
-https://vipsookaastrogogarudapremiumlivevvip1hdgqdssfugdghvdqwv7.garudatvpro.workers.dev/https://l17.dp.sooka.my/5170/linear/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9311.png" group-title="ASTRO SPORTS",ASTRO GRANDSTAND
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -3810,16 +3807,12 @@ https://icecream.jasoncreak8.workers.dev/https://linearjitp-playback.astro.com.m
                                                     J SPORTS
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xRK2V7X.jpg" group-title="J SPORTS", J SPORTS 1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H32tKIf.jpg" group-title="J SPORTS", J SPORTS 2
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7vBi1Jg.jpg" group-title="J SPORTS", J SPORTS 3
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7My9IT.jpg" group-title="J SPORTS", J SPORTS 4
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=4
 
 
 
