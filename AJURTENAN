@@ -3,25 +3,27 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIGA 4 NASIONAL", Live
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIGA 4 NASIONAL", Live 1
 #EXTVLCOPT:http-origin=https://jlbfh5.jlbfaa.com
 #EXTVLCOPT:http-referrer=https://jlbfh5.jlbfaa.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746065183/ei/v4ISaLG0CKaYsfIPkMqUuAg/ip/103.170.22.57/id/h_DMOTxoJLA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/bui/AecWEAZ4k8AmFL0zHHp_alf8kM385wHbCyXekXEDm514smvOlAl-ovUa-CLvTRcvhz7tIDcLGVx82MsQ/spc/wk1kZkVTdoTCuUFt2aex0zqG3xbypSo-I7LRObHlwTp_c2hCf-VLyDc_J5S3c2LS5C3ueA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51466697/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgJMuWJp4xyRc53prFKPRNClJQNLF5BrDK_xDJGrk1ieMCIHvCidQniRpbJupb2y_oEI80OYNHEB5q9IxNezmB1DFP/file/index.m3u8
 #https://bf.shandongjncz.com/live/sd-1-4326753.m3u8?txSecret=57718f51cd6000254e5cd64c6332f21f&txTime=6811e4ea
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIGA 4 NASIONAL", Live 2
-#EXTVLCOPT:http-origin=https://jlbfh5.jlbfaa.com
-#EXTVLCOPT:http-referrer=https://jlbfh5.jlbfaa.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746065727/ei/34QSaO2SGtTMssUPv6yZuAc/ip/103.170.22.60/id/fy4s8-EAfaM.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/bui/AecWEAZRdi1O7xlphpFNilcCgnqR1kqSTYMrOYMaMDRefBqpYVqIU8MBfXC3bAJ-wkkRsI3Pi-zziDio/spc/wk1kZmTZqBUK5ZxVD5yf_YBaCXQq3UzbtKDpvYnEWjzPB4wUZ8H425nr6wdVXhkq5wo4_-IuFA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgKdgeNXDqnIrMpSinnYA0HOExPRxKAaIl90yk45f3E0kCIGRz0ncsA53SRTZ3BlmEg-1AAPabtPwdE44X7841GUv6/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIGA 4 NASIONAL", LIVE 2
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-connection-timeout=5000
+#EXTVLCOPT:http-reconnect=truehttps://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746065727/ei/34QSaO2SGtTMssUPv6yZuAc/ip/103.170.22.60/id/fy4s8-EAfaM.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/bui/AecWEAZRdi1O7xlphpFNilcCgnqR1kqSTYMrOYMaMDRefBqpYVqIU8MBfXC3bAJ-wkkRsI3Pi-zziDio/spc/wk1kZmTZqBUK5ZxVD5yf_YBaCXQq3UzbtKDpvYnEWjzPB4wUZ8H425nr6wdVXhkq5wo4_-IuFA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgKdgeNXDqnIrMpSinnYA0HOExPRxKAaIl90yk45f3E0kCIGRz0ncsA53SRTZ3BlmEg-1AAPabtPwdE44X7841GUv6/file/index.m3u8
 #https://bf.shandongjncz.com/live/sd-1-4326752.m3u8?txSecret=fb337531dc8c9553a0a55df3454527da&txTime=6811e950
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIGA 4 NASIONAL", Live 3
-#EXTVLCOPT:http-origin=https://jlbfh5.jlbfaa.com
-#EXTVLCOPT:http-referrer=https://jlbfh5.jlbfaa.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746065836/ei/TIUSaJihLabg3LUP97q7mQI/ip/103.170.22.60/id/SdgXM1b98S0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/bui/AecWEAajermWDThvopoQpFdtb1Na99bEA9rSfznd6BDTj4Ppy84g8mjpRLHIVMY7RsYIoRosBlhKLm2Z/spc/wk1kZtQb0c_Er2uthm_8xs_NdA5MH-KwX4XbwJDg5HdIwun0M2QpTJSczGSmcwTw0InrMuyNzQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJXvyr0N2a4sRlgeYLjRty6zfAEmLr9tBHp7Z0K0jfOFAiEAuT28kza0ZH3Xm3_tcJzN1nGyZ5rRv4_wdwxMIZaMqFc%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIGA 4 NASIONAL", LIVE 3
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-connection-timeout=5000
+#EXTVLCOPT:http-reconnect=truehttps://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746065836/ei/TIUSaJihLabg3LUP97q7mQI/ip/103.170.22.60/id/SdgXM1b98S0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/bui/AecWEAajermWDThvopoQpFdtb1Na99bEA9rSfznd6BDTj4Ppy84g8mjpRLHIVMY7RsYIoRosBlhKLm2Z/spc/wk1kZtQb0c_Er2uthm_8xs_NdA5MH-KwX4XbwJDg5HdIwun0M2QpTJSczGSmcwTw0InrMuyNzQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJXvyr0N2a4sRlgeYLjRty6zfAEmLr9tBHp7Z0K0jfOFAiEAuT28kza0ZH3Xm3_tcJzN1nGyZ5rRv4_wdwxMIZaMqFc%3D/file/index.m3u8
 
 
 #EXTINF:-1 group-title="EVENT BADMINTON" tvg-logo="https://iili.io/3Wa3UMu.md.png",Sudirman Cup 1
