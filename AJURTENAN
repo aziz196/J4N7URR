@@ -7,6 +7,7 @@
 #EXTVLCOPT:http-origin=https://jlbfh5.jlbfaa.com
 #EXTVLCOPT:http-referrer=https://jlbfh5.jlbfaa.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746065183/ei/v4ISaLG0CKaYsfIPkMqUuAg/ip/103.170.22.57/id/h_DMOTxoJLA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/bui/AecWEAZ4k8AmFL0zHHp_alf8kM385wHbCyXekXEDm514smvOlAl-ovUa-CLvTRcvhz7tIDcLGVx82MsQ/spc/wk1kZkVTdoTCuUFt2aex0zqG3xbypSo-I7LRObHlwTp_c2hCf-VLyDc_J5S3c2LS5C3ueA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51466697/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgJMuWJp4xyRc53prFKPRNClJQNLF5BrDK_xDJGrk1ieMCIHvCidQniRpbJupb2y_oEI80OYNHEB5q9IxNezmB1DFP/file/index.m3u8
 #https://bf.shandongjncz.com/live/sd-1-4326753.m3u8?txSecret=57718f51cd6000254e5cd64c6332f21f&txTime=6811e4ea
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIGA 4 NASIONAL", Live 2
