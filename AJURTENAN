@@ -2,9 +2,9 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEqvi5iZpj3cxA2DvYWTGGDm1sKZ6WUcM4j3bGPOkXTlSjKnFUPwT6-IsKOWCDsxv_AfeoV9hJ-YVDkpr_EVEb44RliE9BatnKL7eMUf7Up3KuGtMKs5ZFQRTw6e5KmLS1Fvxd03P4boNfC_xMb_ixbBehYhXY6OnSSdX3lUzu4dSs_9ahWri4_BLZvwzW/s700/EVENT%20ONLY.png" group-title="EL CLASICO",EL CLASICO
-
-
+#EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEqvi5iZpj3cxA2DvYWTGGDm1sKZ6WUcM4j3bGPOkXTlSjKnFUPwT6-IsKOWCDsxv_AfeoV9hJ-YVDkpr_EVEb44RliE9BatnKL7eMUf7Up3KuGtMKs5ZFQRTw6e5KmLS1Fvxd03P4boNfC_xMb_ixbBehYhXY6OnSSdX3lUzu4dSs_9ahWri4_BLZvwzW/s700/EVENT%20ONLY.png" group-title="LIGA 4
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746025849/ei/GekRaI7TMcLysfIPgKyWuQI/ip/103.170.22.57/id/W5J4YnSKO70.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/bui/AecWEAafjP9PD6aQTyNdp0qmYpEdjUJt__KUrsKONufuQGSSwj5-NTt1jRWD7WBkt2LFnrn8WemeK0JD/spc/wk1kZiO9uA4p63HD0TJCGr8ZdEoezoriiTN-LdvmdSmcQxKCcPERaYS6YDHUpff47hN_Y5sKkA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51466698/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAK_eeNkNe6o_8emjd918RUlHOHCtTSD5ArGw54Uxd9r5AiBWcmPvo2Pl78cm59kGbCuxvTtfq_N-ENANPDwKkJCBEw%3D%3D/file/index.m3u8
 
 
 
