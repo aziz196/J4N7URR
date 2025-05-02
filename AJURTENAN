@@ -1513,6 +1513,9 @@ https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
 
                                                                                PROLIGA
 
+#EXTINF:-1 tvg-id="Moji.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://cdn1-production-images-kly.akamaized.net/QH0wuKV8VcrY1IYyXWcI7EA6V7Q=/1280x720/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5084947/original/041382900_1736372756-logo_proliga.jpg" group-title="PROLIGA", PRO LIGA 2
+http://killer.play-gachor.online/demo@gachor/grjKMHjZvN/9170
+
 #EXTINF:-1 tvg-id="Moji.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://cdn1-production-images-kly.akamaized.net/QH0wuKV8VcrY1IYyXWcI7EA6V7Q=/1280x720/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5084947/original/041382900_1736372756-logo_proliga.jpg" group-title="PROLIGA", VOLY TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; XVBCPULOQJ) ExoPlayerLib/2.15.1
 #https://github.com/B-inalm3u-Custom/Dresrossa/raw/refs/heads/B-inal22/mojiTV3.m3u8
@@ -1561,8 +1564,6 @@ https://master-stream.my.id/live/6D63701EC97F20360890B90EAA9151A7/16.ts
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; XVBCPULOQJ) ExoPlayerLib/2.15.1
 #https://master-stream.my.id/live/6D63701EC97F20360890B90EAA9151A7/73.ts
 
-#EXTINF:-1 tvg-id="Moji.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://cdn1-production-images-kly.akamaized.net/QH0wuKV8VcrY1IYyXWcI7EA6V7Q=/1280x720/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5084947/original/041382900_1736372756-logo_proliga.jpg" group-title="PROLIGA", PRO LIGA 2
-http://killer.play-gachor.online/demo@gachor/grjKMHjZvN/9170
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
